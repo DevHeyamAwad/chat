@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "309075540005",
+    "project_id": "addfb2",
+    "storage_bucket": "addfb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309075540005:android:51e5ce378eaa345e6e27cc",
+        "android_client_info": {
+          "package_name": "com.oalshokri.chat_app_class"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309075540005-urjamg69mpen7veabpbcmvolbcjg7eg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZPaLQP9fEQrrhESk_goeJa-3J_7egAJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309075540005-urjamg69mpen7veabpbcmvolbcjg7eg7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "309075540005-lirhb7vqess6n5o0n81h9a9oiuq9bpd0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oalshokri.chatAppClass"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
